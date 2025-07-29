@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://github.com/EekshaHollaR/EekshaHollaR/blob/main/github-header-image%20(1).png?raw=true">
 <!--
 **EekshaHollaR/EekshaHollaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

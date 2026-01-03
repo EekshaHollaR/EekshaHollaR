@@ -50,7 +50,7 @@ Whether it's debugging a stubborn error or designing user-friendly interfaces, I
 <a href="https://linkedin.com/in/eeksha-holla-r" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
 </a>&nbsp;&nbsp;
-<a href="https://instagram.com/e" target="_blank">
+<a href="https://www.instagram.com/eeksha_holla_r" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
 </a>
 
